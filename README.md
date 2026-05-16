@@ -43,6 +43,8 @@ translate into positive portfolio returns over a two-day live trading window?
 ---
 
 ## Project Structure
+
+```
 TSA_Capstone_2026/
 │
 ├── notebooks/
@@ -73,6 +75,7 @@ TSA_Capstone_2026/
 │   └── final_portfolio_pnl.csv             # Complete P&L summary
 │
 └── README.md
+```
 ---
 
 ## Models Used
@@ -188,7 +191,7 @@ Two strategies were combined with equal 50-50 weighting:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/TSA_Capstone_2026.git
+git clone https://github.com/MadhurGupta788/TSA_Capstone_2026.git
 cd TSA_Capstone_2026
 
 # 2. Create virtual environment
